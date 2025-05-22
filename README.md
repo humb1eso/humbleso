@@ -1,0 +1,1 @@
+All texture grayscale images are collected from the internet and are not original. All image pixels are set to 192 * 192, with grayscale values ranging from 0-255, which can be used for texture height mapping of 3D models, making it convenient for 3D printing testing.
